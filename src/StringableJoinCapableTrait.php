@@ -25,7 +25,7 @@ trait StringableJoinCapableTrait
      * @throws InvalidArgumentException If the list of parts or the delimiter is invalid.
      * @throws OutOfRangeException      If one of the parts or the delimiter cannot be normalized to string.
      *
-     * @return string
+     * @return string A string consisting of parts joined by delimiter.
      */
     protected function _stringableJoin($parts, $delim)
     {
