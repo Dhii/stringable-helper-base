@@ -7,6 +7,15 @@
 [![Latest Unstable Version](https://poser.pugx.org/dhii/stringable-helper-base/v/unstable)](https://packagist.org/packages/dhii/stringable-helper-base)
 [![This package complies with Dhii standards](https://img.shields.io/badge/Dhii-Compliant-green.svg?style=flat-square)][Dhii]
 
+## Details
 Helper functionality for working with stringables.
 
+### Traits
+- [`StringableJoinCapableTrait`] - Joins a list of parts into a string using a delimiter.
+- [`StringableSplitCapableTrait`] - Splits a string into a list of parts using a delimiter.
+
+
 [Dhii]: https://github.com/Dhii/dhii
+
+[`StringableJoinCapableTrait`]:                             src/StringableJoinCapableTrait.php
+[`StringableSplitCapableTrait`]:                            src/StringableSplitCapableTrait.php
