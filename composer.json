@@ -32,6 +32,9 @@
             "Dhii\\Util\\String\\FuncTest\\": "test/functional"
         }
     },
+    "suggest": {
+        "dhii/normalization-helper-base":   "For using iterables instead of arrays, and stringables instead of strings"
+    },
     "scripts": {
         "test": "phpunit",
         "csfix": "php-cs-fixer fix -vvv"
