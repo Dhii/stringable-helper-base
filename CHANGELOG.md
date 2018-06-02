@@ -6,5 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [[*next-version*]] - YYYY-MM-DD
 
+## [0.1-alpha2] - 2018-06-02
+### Added
+- `StringableReplaceCapableTrait`.
+
 ## [0.1-alpha1] - 2018-04-20
 Initial version.
