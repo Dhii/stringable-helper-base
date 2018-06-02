@@ -13,9 +13,11 @@ Helper functionality for working with stringables.
 ### Traits
 - [`StringableJoinCapableTrait`] - Joins a list of parts into a string using a delimiter.
 - [`StringableSplitCapableTrait`] - Splits a string into a list of parts using a delimiter.
+- [`StringableReplaceCapableTrait`] - Replaces all occurrences of a string within another string with the specified string.
 
 
 [Dhii]: https://github.com/Dhii/dhii
 
 [`StringableJoinCapableTrait`]:                             src/StringableJoinCapableTrait.php
 [`StringableSplitCapableTrait`]:                            src/StringableSplitCapableTrait.php
+[`StringableReplaceCapableTrait`]:                          src/StringableReplaceCapableTrait.php
